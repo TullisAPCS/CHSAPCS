@@ -1,4 +1,4 @@
 # [CS50 AP]({{ "/" | relative_url }})
 
-Harvard University\\
+Cedaredge High School and Harvard University\\
 2018–2019
